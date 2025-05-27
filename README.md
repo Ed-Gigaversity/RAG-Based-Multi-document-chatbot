@@ -14,18 +14,6 @@ A **Retrieval Augmented Generation (RAG) ChatBot** that lets you chat with multi
 
 ---
 
-## Screenshots
-
-**First Launch (No Documents):**
-
-![user_interface](Images/user_interface.png)
-
-**In Use (With Documents):**
-
-![app_in_use](Images/app_in_use.png)
-
----
-
 ## How It Works
 
 ![project_schema](Images/project_schema.png)
